@@ -76,7 +76,6 @@ CONFIG := --prefix=/usr \
 	--enable-avisynth \
 	--enable-gnutls \
 	--enable-ladspa \
-	--enable-libass \
 	--enable-libbluray \
 	--enable-libbs2b \
 	--enable-libcaca \
